@@ -1,0 +1,46 @@
+.contact{
+    background-color: rgb(216, 37, 37);
+    display: flex;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mic{
+    height: 50px;
+}
+.viscrac{
+    width: 22%;
+}
+.qr{
+    width: 30%;
+}
+.copy{
+    margin-top: 30px;
+    background-color: rgb(37, 156, 189);
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#locat h5{
+    color: rgb(37, 156, 189);
+}
+#locat a{
+    color: black;
+}
+
+@media screen and (min-width: 320px) and (max-width: 800px){
+    #mail  {
+       font-size: x-small;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 800px){
+    .logotext  {
+        display: none;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 800px){
+    .contact  {
+        display: none;
+    }
+}

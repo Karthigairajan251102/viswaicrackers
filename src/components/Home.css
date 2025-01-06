@@ -1,0 +1,138 @@
+.caroimg{
+    width: 100%;
+    height: 660px;
+    margin: 0;
+    padding: 0;
+}
+.welcome{
+    margin-top: 10px;
+}
+.branded{
+    margin-top: 50px;
+}
+.diwali{
+    width: 100%;
+    height: 100%;
+}
+.sivakasi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    font-weight: 800;
+}
+.located{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    margin-top: 20px;
+}
+.industry{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    margin-top: 60px;
+}
+.priceimg{
+    width: 100%;
+}
+#img{
+    margin-top: 10px;
+}
+.slide{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    margin: 0;
+    padding: 0;
+}
+.ourprod{
+    text-align: center;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.prodscon{
+    border: 2px solid whitesmoke;
+    box-shadow: 10px 10px 10px whitesmoke;
+}
+.prodsimg{
+    width: 45%;
+    margin: 35px;
+    padding: 15px;
+}
+@media screen and (min-width: 320px) and (max-width: 1250px){
+    .prodsimg  {
+        width: 80%;
+    }
+}
+.prodcon{
+   
+    box-shadow: 5px 5px 5px rgb(222, 218, 218);
+    height: 250px;
+}
+.prodsimg:hover{
+    transition: width;
+    width: 47%;
+    transition-duration: 1s;
+}
+.prodimage{
+    display: flex;
+    justify-content: center;
+}
+.prodname{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.review{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.revimg{
+    display: flex;
+    justify-content: center;
+}
+@keyframes flashing{
+    0%{
+        opacity: 1.0;
+    }
+    25%{
+        opacity: 0.6;
+    }
+    50%{
+        opacity: 0.3;
+    }
+    75%{
+        opacity: 0.6;
+    }
+    100%{
+        opacity: 1.0;
+    }
+}
+.shopnow{
+    background-color: rgb( 247, 166, 4);
+    border: none;
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.shopnow:hover{
+    background-color: rgb( 247, 166, 4);
+}
+.viewall{
+    background-color: rgb( 247, 166, 4);
+    border: none;
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.viewall:hover{
+    background-color: rgb( 247, 166, 4);
+}
+.whats{
+    width: 7%;
+   
+}
+.call{
+    width: 10%;
+}

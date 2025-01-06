@@ -1,0 +1,28 @@
+.cracks{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+.cracks h1{
+    margin-top: 50px;
+    color: rgb(19, 126, 183);
+}
+.tickicon {
+    font-size: 24px;
+    color: green;
+  }
+.xicon{
+    font-size: 24px;
+    color: red;
+}
+.safety{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    margin-bottom: 70px;
+}  
+.whats{
+    width: 7%;
+   
+}
+.call{
+    width: 10%;
+}   

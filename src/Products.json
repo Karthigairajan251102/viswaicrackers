@@ -1,0 +1,342 @@
+{
+    "fampack":[
+        {"code" :1,"image":"./src/assets/images/pricebanner1.jpeg", "name": "3500RS Family Pack GOLD ( 43 Items)" ,  "actualprice" : 17500, "dicount": 3500 },
+        {"code" :1,"image":"./src/assets/images/pricebanner2.jpeg",  "name": "5500RS VIP Pack DIAMOND (60 Item )" ,  "actualprice" : 27500, "dicount": 5500},
+        {"code" :1,"image":"./src/assets/images/pricebanner3.jpeg",  "name": "7500 VVIP Pack PLATINUM ( 70 Items)" ,  "actualprice" : 37500, "dicount":7500}
+    ],
+
+    "adult":[
+        {"code" :701,"image":"./src/assets/images/pricebanner4.jpeg", "name": "4500 RS Adult Combo Pack Lion ( 41 Items )" ,  "actualprice" : 22500, "dicount": 4500},
+        {"code" :652,"image":"./src/assets/images/pricebanner5.jpeg",  "name": "5500RS VIP Pack DIAMOND (60 Item )" ,  "actualprice" : 32500, "dicount": 6500},
+        {"code" :424,"image":"./src/assets/images/pricebanner6.jpeg",  "name": "8500 RS Adult Combo Leopard (70 Items)" ,  "actualprice" : 42500, "dicount":8500}
+    ],
+    
+    "sparklers":[
+        {"code" :4,"image":"./src/assets/sparklers/10cmelct.jpeg", "name": "10cm Elctric Sparlers" ,  "actualprice" : 120, "dicount": 24},
+        {"code" :5,"image":"./src/assets/sparklers/10cmcolor.jpeg", "name": "10cm Color Sparlers" ,  "actualprice" : 130, "dicount": 26},
+        {"code" :6,"image":"./src/assets/sparklers/10cmgreen.jpeg",  "name": "10cm Green Sparlers" ,  "actualprice" : 140, "dicount": 28},
+        {"code" :7,"image":"./src/assets/sparklers/10cmred.jpeg", "name": "10cm Red Sparlers" ,  "actualprice" : 145, "dicount": 29},
+        {"code" :8,"image":"./src/assets/sparklers/10cmelct.jpeg",  "name": "12cm Electric Sparlers" ,  "actualprice" : 140 , "dicount": 28 },
+        {"code" :9,"image":"./src/assets/sparklers/10cmcolor.jpeg",  "name": "12cm Color Sparlers" ,  "actualprice" : 150, "dicount": 30},
+        {"code" :10,"image":"./src/assets/sparklers/10cmgreen.jpeg", "name": "12cm Green Sparlers" ,  "actualprice" : 160, "dicount": 32 },
+        {"code" :11,"image":"./src/assets/sparklers/10cmred.jpeg",  "name": "12cm Red Sparlers" ,  "actualprice" : 165, "dicount": 33 },
+        {"code" :12,"image":"./src/assets/sparklers/10cmelct.jpeg",  "name": "15cm Electric Sparlers" ,  "actualprice" : 210, "dicount": 42},
+        {"code" :13,"image":"./src/assets/sparklers/10cmcolor.jpeg", "name": "15cm Color Sparlers" ,  "actualprice" : 220, "dicount": 44},
+        {"code" :14,"image":"./src/assets/sparklers/10cmgreen.jpeg",  "name": "15cm Green Sparlers" ,  "actualprice" : 235, "dicount": 47},
+        {"code" :15,"image":"./src/assets/sparklers/10cmred.jpeg",  "name": "15cm Red Sparlers" ,  "actualprice" : 250, "dicount":50 },
+        {"code" :16,"image":"./src/assets/sparklers/10cmelct.jpeg", "name": "30cm Electic Sparlers" ,  "actualprice" : 210, "dicount": 42},
+        {"code" :17,"image":"./src/assets/sparklers/10cmcolor.jpeg",  "name": "30cm Color Sparlers" ,  "actualprice" : 220, "dicount": 44 },
+        {"code" :18,"image":"./src/assets/sparklers/10cmgreen.jpeg",  "name": "30cm Green Sparlers" ,  "actualprice" : 235, "dicount":47},
+        {"code" :19,"image":"./src/assets/sparklers/10cmred.jpeg", "name": "30cm Red Sparlers" ,  "actualprice" : 250, "dicount": 50},
+        {"code" :20,"image":"./src/assets/sparklers/50cmelct.jpeg",  "name": "50cm Elctric Sparlers" ,  "actualprice" : 750, "dicount": 150.00},
+        {"code" :21,"image":"./src/assets/sparklers/50cmcolor.jpeg",  "name": "50cm Color Sparlers" ,  "actualprice" : 850, "dicount":170.00 },
+        {"code" :22,"image":"./src/assets/sparklers/10cmblue.jpeg", "name": "10cm Blue Sparlers" ,  "actualprice" : 165, "dicount": 33.00 },
+        {"code" :23,"image":"./src/assets/images/pricebanner1.jpeg",  "name": "10cm Violet Sparlers" ,  "actualprice" : 170, "dicount": 34.00 },
+        {"code" :320,"image":"./src/assets/sparklers/rotate.jpg",  "name": "Rotating Sparlers" ,  "actualprice" : 1200, "dicount":240.00 }
+    ],
+
+    "onesound":[
+        {"code" :24,"image":"./src/assets/onesound/kuruvi.jpeg", "name": "2 3/4 ' Kuruvi / ASN OWN" ,  "actualprice" : 40, "dicount": 8.00 },
+        {"code" :25,"image":"./src/assets/onesound/lakshmi.jpeg", "name": "3 1/2 '' Lakshmi / ASN OWN" ,  "actualprice" : 80, "dicount": 16 },
+        {"code" :25,"image":"./src/assets/onesound/lakshmi.jpeg", "name": "4 ' Lakshmi / ASN OWN" ,  "actualprice" : 110, "dicount":22 },
+        {"code" :27,"image":"./src/assets/onesound/lakshmi.jpeg", "name": "4 ' Lakshmi Super Deluxe" ,  "actualprice" : 220, "dicount": 44},
+        {"code" :28,"image":"./src/assets/onesound/gold.jpg", "name": "4 ' Gold Lakshmi" ,  "actualprice" : 190, "dicount": 38},
+        {"code" :29,"image":"./src/assets/onesound/lion.jpg", "name": "5 ' Lion Super Deluxe" ,  "actualprice" :250, "dicount": 50},
+        {"code" :30,"image":"./src/assets/onesound/mega.jpg", "name": "5 ' Baahubali Mega Deluxe ( 25 Ply M/c Fuse )" ,  "actualprice" :310, "dicount":6},
+        {"code" :31,"image":"./src/assets/onesound/lakshmi.jpeg", "name": "6 ' Mega Lakshmi Dlx ( 40 ply M/C fuse )" ,  "actualprice" : 350, "dicount": 70 }
+    ],
+
+    "pots":[
+        {"code" :32,"image":"./src/assets/pots/bigpot.jpeg", "name": "ASN Flower Pots Big" ,  "actualprice" : 300, "dicount": 60.00},
+        {"code" :33,"image":"./src/assets/pots/splpot.jpeg", "name": "ASN Flower Pots Special" ,  "actualprice" : 420, "dicount": 84},
+        {"code" :34,"image":"./src/assets/pots/bigpot.jpeg", "name": "ASN Flower pot asoka" ,  "actualprice" : 500, "dicount":100},
+        {"code" :35,"image":"./src/assets/pots/koti.jpeg", "name": "ASN Colour Koti ( Own Brand)" , "actualprice" : 900, "dicount": 180},
+        {"code" :36,"image":"./src/assets/pots/tri.jpeg", "name": "Tri Color Mega & Mini ( 5pcs )" ,  "actualprice" : 1200, "dicount": 240},
+        {"code" :37,"image":"./src/assets/pots/lucky.jpg", "name": "Lucky ( Red & Green ) Mothers" ,  "actualprice" :850, "dicount": 170 }
+    ],
+
+    "chakkar":[
+        {"code" :38,"image":"./src/assets/chakkars/bigchak.jpeg", "name": "Ground Chakkar Big (10pcs )" ,  "actualprice" : 225,"dicount": 45.00 },
+        {"code":39,"image":"./src/assets/chakkars/splchak.jpeg", "name": "Ground Chakkar SPL ( 10 Pcs )" ,  "actualprice"  : 400, "dicount": 80 },
+        {"code" :40,"image":"./src/assets/chakkars/deluxechak.jpeg", "name": "Ground Chakkar Deluxe ( 10 Pcs )" , "actualprice": 650, "dicount":130 },
+        {"code" :41,"image":"./src/assets/chakkars/spinner.jpg", "name": "Spinner Special Wheel ( 10 Pcs ) Mother's"	,"actualprice" : 900,"dicount": 180 },
+        {"code" :42,"image":"./src/assets/chakkars/wirechak.jpeg", "name": "Wire Chakkar ( 10 Pcs )" , "actualprice"  : 1000,"dicount": 200 },
+        {"code" :43,"image":"./src/assets/chakkars/wheel.jpeg", "name": "4*4 Wheel" , "actualprice" :900, "dicount": 180 },
+        {"code" :44,"image":"./src/assets/chakkars/lotuswheel.jpeg", "name": "Lotus Wheel ( 5 Pcs )" ,  "actualprice"  :900, "dicount":180 },
+        {"code" :769,"image":"./src/assets/chakkars/disco.jpg", "name": "Disco Wheel" ,  "actualprice"  : 300, "dicount": 60 }
+    ],
+
+    "twinglingstar":[
+        {"code" :45,"image":"./src/assets/twinglingstar/twingstar1.jpeg", "name": "1 1/2 ' Twinking Star ( 10 Pcs )" ,  "actualprice" : 175, "dicount": 35.00 },
+        {"code" :46,"image":"./src/assets/twinglingstar/twingstar4.jpeg","name": "4 ' Twinking Star ( 10 Pcs )" ,  "actualprice": 325, "dicount": 65.00 },
+        {"code" :47,"image":"./src/assets/twinglingstar/jilstar.jpeg", "name":"Jil Jil ( 10 Pcs )" , "actualprice": 175, "dicount":35.00 },
+        {"code" :48,"image":"./src/assets/twinglingstar/goldstar.jpg","name": "Golden Stars Pencil (3 Pcs)" ,  "actualprice" : 800, "dicount": 160.00 },
+        {"code" :49,"image":"./src/assets/twinglingstar/ropestar.jpg", "name": "Vanitha Rope Colour" , "actualprice" : 850, "dicount": 170.00}
+    ],
+
+    "matchbox": [
+        {"code" :657,"image":"./src/assets/matchbox/annam.jpeg", "name": "Annam Duke Dlx ( 10 in 1 )" ,  "actualprice" : 750, "dicount": 150.00 },
+        {"code" :777,"image":"./src/assets/matchbox/smart.jpeg", "name": "Smart Jumbo Dlx (10 in 1 )" ,  "actualprice" : 1000, "dicount": 200.00 },
+        {"code" :886,"image":"./src/assets/matchbox/classic.jpeg", "name": "Hero Classic Matches ( 10 in 1 )" ,  "actualprice" : 1200, "dicount":240.00}
+      ],
+
+      "newlanch":[
+        {"code" :51,"image":"./src/assets/newlanch/heart.jpeg", "name": "Heart Sparklers" ,  "actualprice" : 225, "dicount": 45.00 },
+        {"code"  :52,"image":"./src/assets/newlanch/starspark.jpeg", "name": "Star Sparklers" ,  "actualprice" : 225, "dicount": 45.00 },
+        {"code"  :53,"image":"./src/assets/newlanch/love.jpeg", "name": "Love Sparklers" ,  "actualprice" : 250, "dicount": 50.00 },
+        {"code"  :54,"image":"./src/assets/newlanch/yellowsmoke.jpeg", "name": "Yellow Smoky Sparklers"	,  "actualprice" : 425, "dicount": 85.00 },
+        {"code"  :55,"image":"./src/assets/newlanch/bluesmoke.jpeg", "name": "Blue Smoky Sparklers" ,  "actualprice" : 425, "dicount": 85.00 },
+        {"code"  :56,"image":"./src/assets/newlanch/greensmoke.jpeg", "name": "Green Smoky Sparklers" ,  "actualprice" :425, "dicount": 85.00 },
+        {"code"  :57,"image":"./src/assets/newlanch/fancysmoke.jpeg", "name": "Fancy Smoky Sparklers" ,  "actualprice" :425, "dicount":85.00 }
+      ],
+
+      "babyspl":[
+        {"code" :58,"image":"./src/assets/baby/chit.jpeg", "name": "Chit put / Kit Kat" ,  "actualprice" : 150, "dicount": 30.00 },
+        {"code" :59,"image":"./src/assets/baby/flash.jpeg", "name": "Photo flash" ,  "actualprice"  : 500, "dicount": 100.00},
+        {"code" :60,"image":"./src/assets/baby/stone.jpeg", "name": "electric stone" ,  "actualprice"  : 50, "dicount":10.00},
+        {"code" :61,"image":"./src/assets/baby/minbank.jpeg", "name": "Mony in the bank"	,  "actualprice"  : 350, "dicount": 70.00},
+        {"code" :62,"image":"./src/assets/baby/snake.jpeg", "name": "Snake Egg Big ( 10Box )" ,  "actualprice"  : 200, "dicount": 40.00 },
+        {"code" :63,"image":"./src/assets/baby/ringcap.jpeg", "name": "Ring Caps)" ,  "actualprice"  :50, "dicount": 10.00},
+        {"code" :64,"image":"./src/assets/baby/ringgun.jpeg", "name": "Ring Gun Big" ,  "actualprice"  :255, "dicount":55.00},
+        {"code" :65,"image":"./src/assets/baby/rollcap.jpeg", "name": "Roll Cap" ,  "actualprice"  : 250, "dicount": 50.00 },
+        {"code" :142,"image":"./src/assets/baby/vengayam.jpg", "name": "Magic Pops" ,  "actualprice"  :50, "dicount": 10.00 },
+        {"code" :363,"image":"./src/assets/baby/gun.jpg", "name": "Free Fire Gun ( Bada 2 Pcs)" ,  "actualprice"  :1250, "dicount":250.00 }
+      ],
+
+      "bijili":[
+        {"code" :193,"image":"No Image", "name": "Red Bijili ( 50 Pcs ) / OWN ASN" ,  "actualprice" : 75, "dicount": 15.00 },
+        {"code" :194,"image":"No Image", "name": "Red Bijili ( 100 Pcs) / OWN ASn" ,  "actualprice" : 160, "dicount": 32.00},
+        {"code" :195,"image":"No Image", "name": "28C" ,  "actualprice" : 90, "dicount":18.00 },
+        {"code" :196,"image":"No Image", "name": "28G"	,  "actualprice" : 90, "dicount": 18.00 },
+        {"code" :197,"image":"No Image", "name": "1M Spl" ,  "actualprice" : 1000, "dicount": 200.00 },
+        {"code" :198,"image":"No Image", "name": "2M Spl" ,  "actualprice" :2000, "dicount": 400.00},
+        {"code" :199,"image":"No Image", "name": "5M spl" ,  "actualprice" :5000, "dicount":1000.00},
+        {"code" :200,"image":"No Image", "name": "10M spl" ,  "actualprice" : 10000, "dicount": 2000.00},
+        {"code" :695,"image":"No Image", "name": "Magic Sound Wala Blue" ,  "actualprice" :900, "dicount": 180.00},
+        {"code" :257,"image":"No Image", "name": "Magic Sound Wala Orange" ,  "actualprice" :880, "dicount":176.00},
+        {"code" :756,"image":"No Image", "name": "Magic Sound Wala Pink" ,  "actualprice" :950, "dicount":190.00}
+      ],
+
+      "bombs":[
+        {"code" :67,"image":"./src/assets/bomb/hydro.jpeg", "name": "Hydro Bomb" ,  "actualprice" : 350, "dicount": 70.00 },
+        {"code" :68,"image":"./src/assets/bomb/classic.jpeg", "name": "Classic Bomb" ,  "actualprice" : 600, "dicount": 120.00 },
+        {"code" :69,"image":"./src/assets/bomb/digital.jpeg", "name": "Digital Bomb" ,  "actualprice" : 1200, "dicount":240.00},
+        {"code" :70,"image":"./src/assets/bomb/quatpaper.jpeg", "name": "1/4 kg Paper Bomb"	,  "actualprice" : 350, "dicount": 60.00 },
+        {"code" :71,"image":"./src/assets/bomb/halfpaper.jpeg", "name": "1/2 kg Paper Bomb" ,  "actualprice" : 600, "dicount": 120.00 },
+        {"code" :72,"image":"./src/assets/bomb/onepaper.jpeg", "name": "1 kg Paper Bomb" ,  "actualprice" :1100, "dicount": 220.00 }
+      ],
+
+      "rocket":[
+        {"code" :73,"image":"./src/assets/rocket/rocket.jpeg", "name": "Rocket Bomb" ,  "actualprice" : 350, "dicount": 70.00 },
+        {"code" :74,"image":"./src/assets/rocket/champion.jpeg", "name": "Whistle Rocket Champions" ,  "actualprice" : 1000, "dicount": 200.00 },
+        {"code" :75,"image":"/src/assets/rocket/champion.jpeg", "name": "Whistle Rocket Whistle podu" ,  "actualprice" : 1050, "dicount":210.00 },
+        {"code" :76,"image":"./src/assets/rocket/lunik.jpg", "name": "Lunik Rockets"	,  "actualprice" : 600, "dicount": 120.00 },
+        {"code" :77,"image":"./src/assets/rocket/twosound.jpg", "name": "2 Sound Rocket" ,  "actualprice" : 600, "dicount": 120.00 },
+        {"code" :78,"image":"./src/assets/rocket/music.jpeg", "name": "Musical Rocket (5 Pcs )" ,  "actualprice" :550, "dicount": 110.00 }
+      ],
+
+      "sizzling":[
+        {"code" :79,"image":"./src/assets/sizzling/drum.jpeg", "name": "Star Drum" ,  "actualprice" : 750, "dicount": 150.00 },
+        {"code" :80,"image":"./src/assets/sizzling/moneyin.jpeg", "name": "Money in the Bank (1 Pcs )" ,  "actualprice"  : 350, "dicount": 70.00},
+        {"code" :81,"image":"./src/assets/sizzling/heist.jpeg", "name": "Bada Magizh Heist ( 2 Pcs) Currency Note" ,  "actualprice"  : 950, "dicount":190.00 },
+        {"code" :82,"image":"./src/assets/sizzling/sword.jpeg", "name": "Sword"	,  "actualprice"  : 700, "dicount": 140.00 },
+        {"code" :83,"image":"./src/assets/sizzling/kf.jpeg", "name": "Tin Beer KF" ,  "actualprice"  : 500, "dicount": 100.00 },
+        {"code" :84,"image":"./src/assets/sizzling/kf.jpeg", "name": "Tin Beer Crystal Beer" ,  "actualprice"  :500, "dicount": 100.00 },
+        {"code" :85,"image":"./src/assets/sizzling/falls.jpeg", "name": "Water Falls Jumbo"	,  "actualprice"  : 900, "dicount": 180.00 },
+        {"code" :86,"image":"./src/assets/sizzling/lollipop.jpeg", "name": "Lollipop ( 5Pcs)" ,  "actualprice"  : 1500, "dicount": 230.00 },
+        {"code" :319,"image":"./src/assets/sizzling/bat.jpg", "name": "Bat & Ball Smoke" ,  "actualprice"  :1150, "dicount": 230.00 }
+      ],
+
+      "candle":[
+        {"code" :87,"image":"./src/assets/candle/ultracandle.jpg", "name": "ultra Candles" ,  "actualprice" : 450, "dicount": 90.00 },
+        {"code" :88,"image":"./src/assets/candle/selfie.jpeg", "name": "Inyias Selife Sticks (5 Pcs )" ,  "actualprice" : 950, "dicount": 190.00 },
+        {"code" :89,"image":"./src/assets/candle/colorsmoke.jpeg", "name": "Colour Smoke" ,  "actualprice" : 900, "dicount":180.00 },
+        {"code" :90,"image":"./src/assets/candle/butterfly.jpeg", "name": "ButterFly (10 Pcs)"	,  "actualprice" : 550, "dicount": 110.00 },
+        {"code" :91,"image":"./src/assets/candle/bambaram.jpeg", "name": "Bambaram (10Pcs)" ,  "actualprice" : 750, "dicount": 150.00},
+        {"code" :92,"image":"./src/assets/candle/helicopter.jpeg", "name": "Helicopter ( 5 Pcs)" ,  "actualprice" :525, "dicount": 105.00 },
+        {"code" :93,"image":"./src/assets/candle/tin.jpeg", "name": "Tin Jigarthanda"	,  "actualprice" : 525, "dicount": 105.00 },
+        {"code" :94,"image":"./src/assets/candle/tin.jpeg", "name": "Tin Falooda" ,  "actualprice" : 525, "dicount": 105.00 },
+        {"code" :95,"image":"./src/assets/candle/tin.jpeg", "name": "Tin Vanilla" ,  "actualprice" :525, "dicount": 105.00 }
+      ],
+
+      "colorFount":[
+        {"code" :96,"image":"./src/assets/colorfount/peacok.jpeg",  "name": "Peacok Feather ( 5Pcs )" ,  "actualprice" : 600, "dicount": 1200.00 },
+        {"code" :97,"image":"./src/assets/colorfount/discoshower.jpeg",  "name": "Disco Shower ( 5 Pcs )" ,  "actualprice" : 575, "dicount": 115.00 },
+        {"code" :98,"image":"./src/assets/colorfount/amarnath.jpeg",  "name": "Amarnath Lay's (5 Pcs )" ,  "actualprice" : 1100, "dicount":220.00 },
+        {"code" :99,"image":"./src/assets/colorfount/kurkure.jpeg",  "name": "Amarnath Kurkure ( 5 Pcs )"	,  "actualprice" : 1050, "dicount": 210.00 },
+        {"code" :100,"image":"./src/assets/colorfount/bingo.jpeg",  "name": "Amarnath Bingo ( 5 Pcs )" ,  "actualprice" : 1100, "dicount": 220.00 },
+        {"code" :101,"image":"./src/assets/colorfount/holynite.jpeg",  "name": "Holy Nite (6 Pcs & 6 Colours )" ,  "actualprice" :1000, "dicount": 200.00 },
+        {"code" :102,"image":"./src/assets/colorfount/tangles.jpeg",  "name": "Amarnath Tangles ( 5 pcs)"	,  "actualprice" : 1000, "dicount": 200.00 },
+        {"code" :103,"image":"./src/assets/colorfount/ms.jpeg",  "name": "M.S.S 5Kathum ( 5 Pcs )" ,  "actualprice" : 900, "dicount": 180.00 },
+        {"code" :104,"image":"./src/assets/colorfount/rancher.jpeg",  "name": "Jolly Rancher ( 5 Pcs)" ,  "actualprice" :900, "dicount": 180.00 },
+        {"code" :105,"image":"./src/assets/colorfount/girls.jpeg",  "name": "5 Girls 5Colour ( 5 Pcs)" ,  "actualprice" : 1125, "dicount": 225.00 },
+        {"code" :106,"image":"./src/assets/colorfount/pingle.jpg",  "name": "Pingles" ,  "actualprice" :750, "dicount": 150.00 },
+        {"code" :591,"image":"./src/assets/colorfount/lava.jpg",  "name": "Rang Lava ( 2 in 1)"	,  "actualprice" : 850, "dicount": 170.00 },
+        {"code" :106,"image":"./src/assets/colorfount/mari.jpg",  "name": "Mari Gold ( 2in 1)" ,  "actualprice" :850, "dicount": 170.00 },
+        {"code" :128,"image":"./src/assets/colorfount/daisy.jpg",  "name": "Daisy ( 2 in 1)" ,  "actualprice" : 850, "dicount": 170.00 },
+        {"code" :890,"image":"./src/assets/colorfount/cornation.jpg", "name": "Coronation (2 in 1)" ,  "actualprice" :850, "dicount": 170.00 }
+      ],
+
+      "splFount":[
+        {"code" :107,"image":"./src/assets/splfount/pop.jpeg", "name": "AK Sing Pop" ,  "actualprice" : 850, "dicount": 170.00 },
+        {"code" :108,"image":"./src/assets/splfount/fox.jpeg", "name": "AK Fox Star" ,  "actualprice" : 750, "dicount": 150.00 },
+        {"code" :109,"image":"./src/assets/splfount/pearles.jpeg", "name": "Mini Pearls Laddu ( 5 Pcs)" ,  "actualprice" : 900, "dicount":180.00 },
+        {"code" :110,"image":"./src/assets/splfount/pearles.jpeg", "name": "Medium Pearles ( 5 Pcs )"	,  "actualprice" : 1500, "dicount": 300.00 },
+        {"code" :111,"image":"./src/assets/splfount/knockout.jpeg", "name": "Knock Out ( 2 Pcs)" ,  "actualprice" : 800, "dicount": 160.00 },
+        {"code" :113,"image":"./src/assets/splfount/forest.jpeg", "name": "Black Forest ( 2 Pcs )"	,  "actualprice" : 1100, "dicount": 220.00},
+        {"code" :114,"image":"./src/assets/splfount/chocons.jpeg", "name": "Choconz ( 2 Pcs )" ,  "actualprice" : 1100, "dicount": 220.00}
+      ],
+
+      "novelite":[
+        {"code" :186,"image":"No Image", "name": "Sun Light ( 5 Pcs)" ,  "actualprice" : 550, "dicount": 110.00},
+        {"code" :187,"image":"No Image", "name": "Moon Light ( 5 Pcs)" ,  "actualprice" : 500, "dicount": 100.00},
+        {"code" :188,"image":"No Image", "name": "Star Light ( 5 Pcs)" ,  "actualprice" : 500, "dicount":100.00 },
+        {"code" :749,"image":"No Image", "name": "Shin Chan ( 5 Pcs)"	,  "actualprice" : 550, "dicount": 110.00},
+        {"code" :353,"image":"No Image", "name": "Old is Gold (25 Pcs)" ,  "actualprice" : 850, "dicount": 170.00 },
+        {"code" :399,"image":"No Image", "name": "90 ' WATTS" ,  "actualprice" :650, "dicount": 130.00 }
+      ],
+
+      "whistle":[
+        {"code" :115,"image":"./src/assets/whistle/siren.jpeg", "name": "Siren ( 5 Pcs )" ,  "actualprice" : 800, "dicount": 160.00 },
+        {"code" :116,"image":"./src/assets/whistle/megasiren.jpeg", "name": "Mega siren" ,  "actualprice" : 850, "dicount": 170.00 },
+        {"code" :117,"image":"./src/assets/whistle/peacok3.jpeg", "name": "Peacock ( 3 Ways )" ,  "actualprice" : 875, "dicount":175.00 },
+        {"code" :118,"image":"./src/assets/whistle/feather.jpeg", "name": "Peacock Feather ( 3 Ways)"	,  "actualprice" : 900, "dicount": 180.00 },
+        {"code" :119,"image":"./src/assets/whistle/mother.jpeg", "name": "Mother's Bada Peacock" ,  "actualprice" : 2050, "dicount": 410.00 },
+        {"code" :120,"image":"./src/assets/whistle/rose.jpeg", "name": "Rose Bada Peacock" ,  "actualprice" :2100, "dicount": 420.00 },
+        {"code" :535,"image":"./src/assets/whistle/dancepek.jpg", "name": "Dancing Peacok (5 in 1)"	,  "actualprice" : 950, "dicount": 190.00 },
+        {"code" :194,"image":"./src/assets/whistle/dora.jpg", "name": "Dora Singer ( 5 Pcs ) / Starvell" ,  "actualprice" : 900, "dicount": 180.00 },
+        {"code" :449,"image":"./src/assets/whistle/emu.jpg", "name": "Emu Egg / Starvell" ,  "actualprice" :1050, "dicount": 210.00 }
+      ],
+
+      "fancyFount":[
+        {"code" :648,"image":"./src/assets/fancyfount/fancy.jpeg", "name": "RAVI KANNAN Golden Peacok" ,  "actualprice" : 755, "dicount": 155.00},
+        {"code" :668,"image":"./src/assets/fancyfount/tweet.jpeg", "name": "Tweet" ,  "actualprice" : 775, "dicount": 155.00 },
+        {"code" :798,"image":"./src/assets/fancyfount/6000.jpeg", "name": "6000" ,  "actualprice" : 800, "dicount":160.00 },
+        {"code" :294,"image":"./src/assets/fancyfount/popping.jpeg", "name": "Poppings"	,  "actualprice" : 800, "dicount": 160.00 },
+        {"code" :167,"image":"./src/assets/fancyfount/sing.jpg", "name": "AK Sing POP" ,  "actualprice" : 750, "dicount": 150.00 },
+        {"code" :224,"image":"./src/assets/fancyfount/laddu.jpg", "name": "Bada Laddu ( 4 Pcs)" ,  "actualprice" :2500, "dicount": 500.00 }
+      ],
+
+      "vanithSpl":[
+        {"code" :189,"image":"No Image", "name": "Colour Cone ( Pink colour )" ,  "actualprice" : 2000, "dicount": 400.00 },
+        {"code" :190,"image":"No Image", "name": "Golden Duck (3 in 1 Fountain)" ,  "actualprice" : 2950, "dicount": 590.00},
+        {"code" :191,"image":"No Image", "name": "Crystal ( Spinner +Drone ) ( 3 Pcs )" ,  "actualprice" : 2600, "dicount":520.00},
+        {"code" :192,"image":"No Image", "name": "Lion ( 3 in 1 Fountain)"	,  "actualprice" : 3150, "dicount": 630.00 },
+        {"code" :118,"image":"No Image", "name": "Pom Pom (30 Pcs)" ,  "actualprice" : 825, "dicount": 165.00},
+        {"code" :594,"image":"No Image", "name": "3 Colour Pencil" ,  "actualprice" :1200, "dicount": 240.00 },
+        {"code" :128,"image":"No Image", "name": "Little BEE"	,  "actualprice" : 1250, "dicount": 250.00 },
+        {"code" :513,"image":"No Image", "name": "Fly Machine" ,  "actualprice" : 1925, "dicount": 375.00 },
+        {"code" :890,"image":"No Image", "name": "Sky Gel" ,  "actualprice" :1625, "dicount": 315.00 }
+      ],
+
+      "skyShot":[
+        {"code" :121,"image":"/src/assets/skyshot/chota.jpg", "name": "1' Chotta Fancy" ,  "actualprice" : 250, "dicount": 50.00 },
+        {"code" :122,"image":"/src/assets/skyshot/triple.jpeg", "name": "7 Triple Sky Shots" ,  "actualprice" : 550, "dicount": 110.00 },
+        {"code" :123,"image":"/src/assets/skyshot/white.jpeg", "name": "White House -5pcs / Pandyan's" ,  "actualprice" : 975, "dicount":195.00 },
+        {"code" :124,"image":"/src/assets/skyshot/pentagan.jpeg", "name": "Pentagon Shots - 5pcs / Pandyan's"	,  "actualprice" : 975, "dicount": 195.00 },
+        {"code" :125,"image":"/src/assets/skyshot/black.jpeg", "name": "Black & White - 5pcs / Pandyan's" ,  "actualprice" : 1200, "dicount": 240.00 },
+        {"code" :126,"image":"/src/assets/skyshot/penta.jpeg", "name": "Penta Magic - 5 Pcs / Mother's" ,  "actualprice" :625, "dicount": 125.00 }
+      ],
+
+      "fancy":[
+        {"code" :127,"image":"/src/assets/fancy/motherbig.jpeg", "name": "2 ' Fancy Mothers big ( 3 pcs )" ,  "actualprice" : 1500, "dicount": 300.00 },
+        {"code" :128,"image":"/src/assets/fancy/troll.jpeg", "name": "2 ' Fancy Trolls (3 pcs)" ,  "actualprice" : 1050, "dicount": 210.00},
+        {"code" :129,"image":"/src/assets/fancy/yowza.jpg", "name": "2 ' Fancy Yowza ( 3 Pcs )" ,  "actualprice" : 1050, "dicount":210.00 },
+        {"code" :130,"image":"/src/assets/fancy/moana.jpg", "name": "2 ' Fancy Moana ( 3 Pcs )"	,  "actualprice" : 1100, "dicount": 220.00 },
+        {"code" :680,"image":"/src/assets/fancy/joy.jpg", "name": "2' Joy ( 3Pcs) / Magizh" ,  "actualprice" : 1350, "dicount": 270.00 }
+      ],
+
+      "pandian":[
+        {"code" :137,"image":"/src/assets/pandian/remo.jpeg", "name": "Remo ( 3 Pcs )" ,  "actualprice" : 2000, "dicount": 400.00},
+        {"code" :138,"image":"/src/assets/pandian/ding.jpg", "name": "Ding Dongs (3 Pcs )" ,  "actualprice" : 2000, "dicount": 400.00 },
+        {"code" :139,"image":"/src/assets/pandian/mail.jpeg", "name": "Hot Mails ( 3 pcs )" ,  "actualprice" : 2000, "dicount":400.00 },
+        {"code" :140,"image":"/src/assets/pandian/mayajaal.jpg", "name": "Mayajall (3 Pcs)"	,  "actualprice" : 2000, "dicount": 400.00},
+        {"code" :141,"image":"/src/assets/pandian/whatsapp.jpeg", "name": "Whatsapp ( 3Pcs )" ,  "actualprice" : 2000, "dicount": 400.00 }
+      ],
+
+      "pandianMega":[
+        {"code" :131,"image":"/src/assets/pandian/sms.jpeg", "name": "3 1/2 ' SMS World" ,  "actualprice"  : 1100, "dicount": 220.00},
+        {"code" :132,"image":"/src/assets/pandian/jodi.jpeg", "name": "3 1/2 ' Jodi NO. 1" ,  "actualprice"  : 1100, "dicount": 220.00},
+        {"code" :133,"image":"/src/assets/pandian/twitter.jpeg", "name": "3 1/2 ' Twitter" ,  "actualprice"  : 1100, "dicount": 220.00},
+        {"code" :134,"image":"/src/assets/pandian/redtails.jpeg", "name": "3 1/2 ' Red Tails"	,  "actualprice"  : 1100, "dicount": 220.00},
+        {"code" :135,"image":"/src/assets/pandian/bolly.jpeg", "name": "3 1/2 ' Bollywood" ,  "actualprice"  : 1100, "dicount": 220.00},
+        {"code" :136,"image":"/src/assets/pandian/bluetooth.jpeg", "name": "3 1/2 ' Bluetooth" ,  "actualprice" : 1100, "dicount": 220.00 }
+      ],
+
+      "pandianSilver":[
+        {"code" :142,"image":"/src/assets/pandian/pinkpearl.jpeg", "name": "4' Pink Pearls" ,  "actualprice" : 1200, "dicount": 240.00 },
+        {"code" :143,"image":"/src/assets/pandian/greenshower.jpeg", "name": "4' Green Shower" ,  "actualprice" : 1150, "dicount": 230.00 },
+        {"code" :144,"image":"/src/assets/pandian/goldattack.jpeg", "name": "4 ' Golden Attack" ,  "actualprice" : 1150, "dicount": 230.00 },
+        {"code" :145,"image":"/src/assets/pandian/chilly.jpeg", "name": "4' Hot Kashmer Chilly ( Red & Green )"	,  "actualprice" : 1200, "dicount": 240.00 },
+        {"code" :146,"image":"/src/assets/pandian/mercury.jpeg", "name": "4' Mercury" ,  "actualprice" : 1150, "dicount": 230.00 },
+        {"code" :147,"image":"/src/assets/pandian/silver.jpg", "name": "4' Silver Line" ,  "actualprice" : 1150, "dicount": 230.00 }
+      ],
+
+      "pandianGold":[
+        {"code" :148,"image":"No Image", "name": "4' Naya Falls Fancy" ,  "actualprice" : 1400, "dicount": 280.00},
+        {"code" :149,"image":"No Image", "name": "4' King Fisher Fancy" ,  "actualprice" : 1350, "dicount": 270.00},
+        {"code" :150,"image":"No Image", "name": "4' Digital Star Fancy" ,  "actualprice" : 1300, "dicount": 260.00},
+        {"code" :668,"image":"No Image", "name": "4' XXX 7 Fancy"	,  "actualprice" : 1400, "dicount": 280.00}
+      ],
+
+      "pandianDouble":[
+        {"code" :151,"image":"./src/assets/pandian/spicejet.jpeg", "name": "4.5' Spicejet ( White & Red )" ,  "actualprice"  : 2150, "dicount": 430.00 },
+        {"code"  :152,"image":"./src/assets/pandian/nestle.jpeg", "name": "4.5' Nestle ( red & Green )" ,  "actualprice"  : 2150, "dicount": 430.00 },
+        {"code"  :153,"image":"./src/assets/pandian/jackion.jpeg", "name": "4.5' Action Jackion ( Red & Green )" , "actualprice"  : 2150, "dicount": 430.00 },
+        {"code"  :154,"image":"./src/assets/pandian/more.jpeg", "name": "4.5' Once More ( Yellow & Red )"	,  "actualprice"  : 2150, "dicount": 430.00},
+        {"code"  :155,"image":"./src/assets/pandian/reply.jpeg", "name": "4.5' Action Replayy ( Yellow & White )" ,  "actualprice"  : 2150, "dicount": 430.00 },
+        {"code"  :156,"image":"./src/assets/pandian/tango.jpeg", "name": "4.5' Tango ( Red & white )"	,  "actualprice" : 2150, "dicount": 430.00}
+      ],
+
+      "pandianDisplay":[
+        {"code" :163,"image":"./src/assets/pandian/partygirl.jpeg", "name": "5' Party Girl" ,  "actualprice" : 2950, "dicount": 590.00 },
+        {"code" :164,"image":"./src/assets/pandian/goldstar.jpeg", "name": "5' Golden Star" ,  "actualprice" : 2950, "dicount": 590.00 },
+        {"code" :165,"image":"./src/assets/pandian/extreme.jpeg", "name": "5' Extreme" , "actualprice" : 2950, "dicount": 590.00 }
+      ],
+
+      "pandianRepeat":[
+        {"code" :172,"image":"./src/assets/pandian/twele.jpg", "name": "12 Shots ( Multi Colour Crackling Balls )" ,  "actualprice" : 1100, "dicount": 220.00 },
+        {"code" :173,"image":"./src/assets/pandian/30shot.jpeg", "name": "Paytm 30 shots" ,  "actualprice" : 2150, "dicount": 430.00},
+        {"code" :174,"image":"./src/assets/pandian/25shot.jpeg", "name": "Whistle Master 25 Shots" , "actualprice" : 3250, "dicount": 650.00 },
+        {"code" :175,"image":"./src/assets/pandian/60shot.jpeg", "name": "Naya Valvo 60 Shots"	,  "actualprice" : 4000, "dicount": 800.00 },
+        {"code" :176,"image":"./src/assets/pandian/120shot.jpeg", "name": "Oyalo 120 Shots" ,  "actualprice" : 7500, "dicount": 1500.00 },
+        {"code" :597,"image":"./src/assets/pandian/240shot.jpg", "name": "City Mall 240 Shots"	,  "actualprice" : 15500, "dicount": 3100.00 },
+        {"code" :649,"image":"./src/assets/pandian/520shot.jpg", "name": "Discovery 520 Shots I( Special Edition Multi colour With Crackling )",  "actualprice" : 29995, "dicount": 5999.00 }
+      ],
+
+      "jaya":[
+        {"code" :157,"image":"./src/assets/jaya/tajmahal.jpeg", "name": "4.5' Taj mahal ( 2 Pcs )" ,  "actualprice" : 3750, "dicount": 750.00 },
+        {"code" :158,"image":"./src/assets/jaya/pearl.jpeg", "name": "4.5' Pearls ( 2 Pcs )" ,  "actualprice" : 3750, "dicount": 750.00 },
+        {"code" :159,"image":"./src/assets/jaya/samsung.jpg", "name": "4.5' Samsung (2 Pcs )" ,"actualprice" : 3750, "dicount": 750.00},
+        {"code" :160,"image":"./src/assets/jaya/walmart.jpeg", "name": "4.5 Walmart (2 Pcs )"	, "actualprice" : 3750, "dicount": 750.00 },
+        {"code" :161,"image":"./src/assets/jaya/amazon.jpeg", "name": "4.5 ' Amazon ( 2 Pcs )'", "actualprice" : 3750, "dicount": 750.00},
+        {"code" :162,"image":"./src/assets/jaya/sony.jpeg", "name": "4.5 ' Sony ( 2 Pcs)"	,  "actualprice" : 3750, "dicount": 750.00 }
+      ],
+
+      "repeat":[
+        {"code" :166,"image":"No Image", "name": "12 Shot Rider" ,  "actualprice" : 600, "dicount": 120.00},
+        {"code" :167,"image":"No Image", "name": "12 Shot ( Red & Green Rider )" ,  "actualprice" : 625, "dicount": 125.00},
+        {"code" :168,"image":"No Image", "name": "25 Shot Crackling Shot Rider" ,"actualprice" : 1500, "dicount": 300.00},
+        {"code" :169,"image":"No Image", "name": "30 Shot Multicolour"	, "actualprice" : 2000, "dicount": 400.00 },
+        {"code" :170,"image":"No Image", "name": "60 Shot Multicolour" , "actualprice" : 4000, "dicount": 800.00 },
+        {"code" :171,"image":"No Image", "name": "120 Shot Multicolour"	,  "actualprice" : 7000, "dicount": 1400.00}
+      ],
+
+      "Ak":[
+        {"code" :182,"image":"No Image", "name": "AK / Mathan's Cheetos 30 shots" ,  "actualprice" : 2050, "dicount": 410.00},
+        {"code" :183,"image":"No Image", "name": "AK FIFA 60 Shots" ,  "actualprice" : 4000, "dicount": 800.00},
+        {"code" :184,"image":"No Image", "name": "AK LUXURY 120 Shots" ,"actualprice" : 7800, "dicount": 1560.00},
+        {"code" :185,"image":"No Image", "name": "AK KING OF SKY 240 Shots"	, "actualprice" : 16000, "dicount": 3200.00}
+      ],
+
+      "setOut":[
+        {"code" :178,"image":"./src/assets/setout/rathna.jpeg", "name": "Bharat Rathna T20 Shot ( 2 1/2 Comment)" ,  "actualprice" : 12500, "dicount": 2500.00},
+        {"code" :179,"image":"./src/assets/setout/unvercell.jpeg", "name": "30 Shot Univercell ( 2 1/2 Comment )" ,  "actualprice" : 18000, "dicount": 300.00},
+        {"code" :180,"image":"./src/assets/setout/celenight.jpeg", "name": "Celebration Night ( 10*10 Shots )" ,"actualprice" : 15500, "dicount": 3100.00},
+        {"code" :181,"image":"./src/assets/setout/setout.jpg", "name": "3 1/2' Mega 16 Shots SetOut"	, "actualprice" : 15000, "dicount": 3000.00 },
+        {"code" :405,"image":"./src/assets/setout/pekdance.jpg", "name": "Peacok Dance 10*10"	, "actualprice" : 16500, "dicount": 3300.00 }
+      ]
+
+}
+ 
+ 
